@@ -10,6 +10,7 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 sudo usermod --append --groups=input `whoami`   
 https://wiki.archlinux.org/index.php/libinput  
 xorg-xinput 1.6.3-2   
+https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8
 
 
 
