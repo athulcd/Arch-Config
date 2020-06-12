@@ -1,6 +1,8 @@
 # Manjaro
-Various configuration files in my Manjaro System
+Various configuration files in my Manjaro System  
+
+Things I did after installing Manjaro :  
 
 
-Things I did after installing Manjaro
+Important Links: 
 
