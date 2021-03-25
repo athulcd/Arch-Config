@@ -5,6 +5,7 @@ Things I did after installing Manjaro :
 1. Optimise sound configuration
 2. Customize the zsh shell
 
+\[Optional\] i3wm Community Edition
 I will keep on updating this with configuration files for various tools I use.
 
 Interesting Links:  
@@ -14,7 +15,6 @@ sudo usermod --append --groups=input `whoami`
 https://wiki.archlinux.org/index.php/libinput  
 xorg-xinput 1.6.3-2   
 https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8
-
 
 
 
