@@ -1,13 +1,15 @@
 # Manjaro
-Various configuration files in my Manjaro(Arch Linux) System  
+Various configuration files in my Manjaro(based on Arch Linux) System  
 
-Things I did after installing Manjaro :  
-1. Optimise sound configuration
-2. Customize the zsh shell
-3. Vim/Emacs config
-4. Setting up the terminal app
+Things I did/to-do after installing Manjaro :  
+1. Optimise sound configuration for better quality
+2. Change the default shell and customize the zsh/fish shell
+3. Text Editor (Vim/Emacs) config
+4. Setting up the terminal app(Konsole/kitty)
+5. WM config (like i3wm Community Edition for Manjaro)
+6. Aliases, keybindings, gestures etc
 
-\[Optional\] i3wm Community Edition
+
 I will keep on updating this with configuration files for various tools I use.
 
 Interesting Links:  
