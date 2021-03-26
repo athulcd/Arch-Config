@@ -8,6 +8,8 @@ Things I did/to-do after installing Manjaro :
 4. Setting up the terminal app(Konsole/kitty)
 5. WM config (like i3wm Community Edition for Manjaro)
 6. Aliases, keybindings, gestures etc
+7. Scaling display/setting dpi
+8. Scrolling
 
 
 I will keep on updating this with configuration files for various tools I use.
