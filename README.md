@@ -1,7 +1,7 @@
-# Manjaro
-Various configuration files in my Manjaro(based on Arch Linux) System  
+# Configuration
+Various configuration files on an Arch Linux) System  
 
-Things I did/to-do after installing Manjaro :  
+Things I did/to-do after installing:  
 1. Optimise sound configuration for better quality
 2. Change the default shell and customize the zsh/fish shell
 3. Text Editor (Vim/Emacs) config
