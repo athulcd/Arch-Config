@@ -23,4 +23,5 @@ Interesting Links:
 ## For implementing gestures
 sudo usermod --append --groups=input `whoami`   
 xorg-xinput 1.6.3-2   
+https://superuser.com/questions/970240/how-can-i-make-i3wm-bind-multitouch-gesture-to-change-desktop
 
