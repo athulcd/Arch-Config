@@ -15,14 +15,13 @@
   - autocomplete
   - history substring search 
 - conky
-- 
+
 
 # Web/Internet
 - firefox
-- vivaldi
+- Brave
 - Discord
 - Telegram
-- 
 
 # Productivity
 - zathura
@@ -33,13 +32,14 @@
 -  Latex
 -  Emacs
 - youtube-dl 
-- 
+- Doom Emacs
 
 # Media
 - strawberry music player
 - vlc
 - mpv
-- 
+- mpd
+- ncmpcpp
 
 # Fonts
 - ttf-font-awesome
