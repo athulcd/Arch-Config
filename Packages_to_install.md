@@ -45,6 +45,6 @@
 - ttf-font-awesome
 - MesloLGS
 - powerline-fonts
-- adobe-source-code-pro-fonts
-- ttf-ms-fonts
-- 
+- Windows fonts (https://wiki.archlinux.org/index.php/Microsoft_fonts)
+
+# AUR
