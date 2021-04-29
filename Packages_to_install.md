@@ -48,3 +48,7 @@
 - Windows fonts (https://wiki.archlinux.org/index.php/Microsoft_fonts)
 
 # AUR
+
+# Git/Build from source
+- zsh-interactive-cd
+- 
