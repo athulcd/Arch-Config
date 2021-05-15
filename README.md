@@ -1,5 +1,5 @@
 # Configuration
-Various configuration files on an Arch Linux) System  
+Various configuration files on an Arch Linux System  
 
 Things I did/to-do after installing:  
 1. Optimise sound configuration for better quality
