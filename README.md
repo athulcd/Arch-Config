@@ -6,7 +6,7 @@ Things I did/to-do after installing:
 2. Change the default shell and customize the zsh/fish shell
 3. Text Editor (Vim/Emacs) config
 4. Setting up the terminal app(Konsole/kitty)
-5. WM config (like i3wm Community Edition for Manjaro)
+5. WM config (i3/bspwm)
 6. Aliases, keybindings, gestures etc
 7. Scaling display/setting dpi
 8. Scrolling
